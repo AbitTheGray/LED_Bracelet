@@ -1,0 +1,8 @@
+_lib/3D
+_out
+plot
+fp-info-cache
+*.kicad_prl
+*-backups
+.idea
+*.blend1
