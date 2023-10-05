@@ -19,3 +19,7 @@ tab_width = 2
 [*.html]
 indent_style = space
 tab_width = 2
+
+[*.ini]
+indent_style = tab
+tab_width = 4
